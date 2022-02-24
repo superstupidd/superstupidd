@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @superstupidd
-- 👀 I’m interested in python🐍
-- 💻 I’m currently learning web development
+- 👀 I’m interested in PHP,python🐍
+- 💻  working on full stack web development
 - 🎓 kiit .. harshchauhan327@gmail.com
 
 <!---
